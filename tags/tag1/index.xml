@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Kelso写字的地方</title>
+    <link>https://www.taosei.com/tags/tag1/</link>
+    <description>Recent content in tag1 on Kelso写字的地方</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 12 Jan 2020 20:31:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.taosei.com/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>青草萌芽，阳光正好</title>
+      <link>https://www.taosei.com/posts/%E9%9D%92%E8%8D%89%E8%90%8C%E8%8A%BD%E9%98%B3%E5%85%89%E6%AD%A3%E5%A5%BD/</link>
+      <pubDate>Sun, 12 Jan 2020 20:31:51 +0800</pubDate>
+      
+      <guid>https://www.taosei.com/posts/%E9%9D%92%E8%8D%89%E8%90%8C%E8%8A%BD%E9%98%B3%E5%85%89%E6%AD%A3%E5%A5%BD/</guid>
+      <description>２０２０，其实这个年份很适合当预言世界毁灭的年份。这几个数字也很有韵律适合做海报封面。我倒是觉得新的</description>
+    </item>
+    
+  </channel>
+</rss>
